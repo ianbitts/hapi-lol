@@ -1,0 +1,15 @@
+{
+  "name": "hapi-lol",
+  "version": "1.0.0",
+  "description": "A wrapper for the league of legends api using hapi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Bitts",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^13.3.0",
+    "inert": "^3.2.0"
+  }
+}
